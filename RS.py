@@ -132,17 +132,6 @@ for sat in range(1000):
 	uaku2=f'{a}{b}{c}{d}{e}{f}{g}{h}{i}{j}{k}{l}'
 	ugen.append(uaku2)
 for mx in range(10000):
-  a='Mozilla/5.0 (Linux; Android'
-  b=random.randrange(7,13)
-  c='V2166 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-  d=random.randrange(70,127)
-  e='0'
-  f=random.randrange(3000,6000)
-  g=random.randrange(40,150)
-  h='Mobile Safari/537.36'
-  lol=f'{a} {b}; {c}{d}.{e}.{f}.{g} {h}'
-  ugen.append(lol)
-for mx in range(10000):
  a='Mozilla/5.0 (Linux; Android '
  b=random.randrange(7,13)
  c='V2207 Build/TP1A.220624.014_IN; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
